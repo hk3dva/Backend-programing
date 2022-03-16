@@ -1,0 +1,15 @@
+D:\Backend\Calc\Calc\bin\Release\net6.0\Calc.exe
+D:\Backend\Calc\Calc\bin\Release\net6.0\Calc.deps.json
+D:\Backend\Calc\Calc\bin\Release\net6.0\Calc.runtimeconfig.json
+D:\Backend\Calc\Calc\bin\Release\net6.0\Calc.dll
+D:\Backend\Calc\Calc\bin\Release\net6.0\Calc.pdb
+D:\Backend\Calc\Calc\obj\Release\net6.0\Calc.csproj.AssemblyReference.cache
+D:\Backend\Calc\Calc\obj\Release\net6.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Calc\Calc\obj\Release\net6.0\Calc.AssemblyInfoInputs.cache
+D:\Backend\Calc\Calc\obj\Release\net6.0\Calc.AssemblyInfo.cs
+D:\Backend\Calc\Calc\obj\Release\net6.0\Calc.csproj.CoreCompileInputs.cache
+D:\Backend\Calc\Calc\obj\Release\net6.0\Calc.dll
+D:\Backend\Calc\Calc\obj\Release\net6.0\refint\Calc.dll
+D:\Backend\Calc\Calc\obj\Release\net6.0\Calc.pdb
+D:\Backend\Calc\Calc\obj\Release\net6.0\Calc.genruntimeconfig.cache
+D:\Backend\Calc\Calc\obj\Release\net6.0\ref\Calc.dll
