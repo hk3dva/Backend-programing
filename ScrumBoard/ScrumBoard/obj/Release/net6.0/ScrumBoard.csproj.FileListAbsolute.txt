@@ -1,0 +1,15 @@
+D:\Backend\ScrumBoard\ScrumBoard\bin\Release\net6.0\ScrumBoard.exe
+D:\Backend\ScrumBoard\ScrumBoard\bin\Release\net6.0\ScrumBoard.deps.json
+D:\Backend\ScrumBoard\ScrumBoard\bin\Release\net6.0\ScrumBoard.runtimeconfig.json
+D:\Backend\ScrumBoard\ScrumBoard\bin\Release\net6.0\ScrumBoard.dll
+D:\Backend\ScrumBoard\ScrumBoard\bin\Release\net6.0\ScrumBoard.pdb
+D:\Backend\ScrumBoard\ScrumBoard\obj\Release\net6.0\ScrumBoard.csproj.AssemblyReference.cache
+D:\Backend\ScrumBoard\ScrumBoard\obj\Release\net6.0\ScrumBoard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\ScrumBoard\ScrumBoard\obj\Release\net6.0\ScrumBoard.AssemblyInfoInputs.cache
+D:\Backend\ScrumBoard\ScrumBoard\obj\Release\net6.0\ScrumBoard.AssemblyInfo.cs
+D:\Backend\ScrumBoard\ScrumBoard\obj\Release\net6.0\ScrumBoard.csproj.CoreCompileInputs.cache
+D:\Backend\ScrumBoard\ScrumBoard\obj\Release\net6.0\ScrumBoard.dll
+D:\Backend\ScrumBoard\ScrumBoard\obj\Release\net6.0\refint\ScrumBoard.dll
+D:\Backend\ScrumBoard\ScrumBoard\obj\Release\net6.0\ScrumBoard.pdb
+D:\Backend\ScrumBoard\ScrumBoard\obj\Release\net6.0\ScrumBoard.genruntimeconfig.cache
+D:\Backend\ScrumBoard\ScrumBoard\obj\Release\net6.0\ref\ScrumBoard.dll
