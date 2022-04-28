@@ -24,7 +24,7 @@ public class UnitTestForBoard
     {
         var board = new Board("Test");
 
-        Assert.Throws<ArgumentOutOfRangeException>(() => board.GetColumn(0));
+        Assert.Throws<Exception>(() => board.GetColumn(0));
     }
 
     [Fact]
@@ -62,7 +62,7 @@ public class UnitTestForBoard
         Assert.NotNull(board.GetColumn(1));
         Assert.NotNull(board.GetColumn(2));
 
-        Assert.Throws<ArgumentOutOfRangeException>(() => board.GetColumn(5));
+        Assert.Throws<Exception>(() => board.GetColumn(5));
     }
 
     [Fact]
@@ -93,7 +93,7 @@ public class UnitTestForBoard
         board.AddNewColumn("2");
         board.AddNewColumn("3");
         board.DeleteColumn(0);
-        Assert.Null(board.GetColumn(0));
+        Assert.Equal("2", board.GetColumn(0).Title);
     }
     [Fact]
     public void DeleteColumn_NotEmptyInBoard_ThrowsException()
@@ -157,7 +157,7 @@ public class UnitTestForBoard
         board.AddNewColumn("2");
         board.AddNewColumn("3");
 
-        Assert.Throws<Exception>(() => board.FindColumnByTitle("5"));
+        Assert.Null(board.FindColumnByTitle("5"));
     }
     [Fact]
     public void GetAllTasksFromColum_HasOneColumn_GetAllTaskSuccessfully()
@@ -175,7 +175,6 @@ public class UnitTestForBoard
     }
 
     [Fact]
-
     public void RemoveTask_NotEmpty_RemoveTaskSuccessfully()
     {
         var board = new Board("Test");
